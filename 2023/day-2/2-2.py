@@ -1,7 +1,7 @@
 import re
 import math
 
-file = open("../files/2.txt")
+file = open("../../files/2023-2.txt")
 lines = file.read().split("\n")
 
 res_sum = 0
